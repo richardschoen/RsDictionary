@@ -1,0 +1,9 @@
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.csprojAssemblyReference.cache
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.csproj.CoreCompileInputs.cache
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.AssemblyInfoInputs.cache
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.AssemblyInfo.cs
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\bin\Debug\netstandard2.0\RSDictionary.deps.json
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\bin\Debug\netstandard2.0\RSDictionary.dll
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\bin\Debug\netstandard2.0\RSDictionary.pdb
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.dll
+C:\gitrepos\RSDictionary\RSDictionary\RSDictionary\obj\Debug\netstandard2.0\RSDictionary.pdb

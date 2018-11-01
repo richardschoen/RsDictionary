@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Richard Schoen</Authors>
+    <Company>Richard Schoen.Net</Company>
+    <Product>RS Dictionary Helper</Product>
+    <Description>This is a dictionary helper class to simplify using a dictionary object.</Description>
+  </PropertyGroup>
+
+</Project>
